@@ -25,7 +25,7 @@ At the bottom of all the displayed tasks, there's a text-based menu with the fol
 
 <br />
 
-Enter the number for the corresponding option you'd like to choose. Entering  1 will update all process information and re-render the output. Selecting 2 will then prompr the user
+Enter the number for the corresponding option you'd like to choose. Entering  1 will update all process information and re-render the output. Selecting 2 will then prompt the user
 for a PID to select for termination. It should be noted that the user will need to have the proper privileges (PROCESS_TERMINATE) granted in order to successfully terminate the target process.
 Finally, option 3 will exit the application.
 
