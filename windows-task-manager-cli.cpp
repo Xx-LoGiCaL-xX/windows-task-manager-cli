@@ -40,12 +40,12 @@ int wmain(int argc, const WCHAR* argv[])
 
 		// Create enough space between last snapshot in console
 		wprintf_s(L"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+		
 
-	} while (option != 3);
+	} while (option != 3);    //option 3, exit
 
 
 	return 0;
 
 }
-
 
