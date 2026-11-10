@@ -34,6 +34,6 @@ of the termination. `DLL_PROCESS_DETACH` will be bypassed and any cleanup routin
  
 Upon successfully terminating a target process, a message confirming the action along with the PID will be displayed before refreshing the text-based task manager:
 
-![interfaceView1](images/screenshot_2.png)
+![interfaceView1](images/screenshot_3.png)
 
 
